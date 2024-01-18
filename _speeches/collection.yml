@@ -2,4 +2,5 @@ collections:
   speeches:
     output: true
     order:
+      - Speeches by DPM Wong.md
       - Speeches by PM Lee.md
