@@ -1,4 +1,5 @@
 collections:
   speeches-by-pm-lee:
     output: true
-    order: []
+    order:
+      - example-page.md
