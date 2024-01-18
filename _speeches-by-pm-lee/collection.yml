@@ -1,0 +1,4 @@
+collections:
+  speeches-by-pm-lee:
+    output: true
+    order: []
