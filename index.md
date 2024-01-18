@@ -45,7 +45,7 @@ sections:
           announcement: Best Bakery In Town.
           link_text: Find Me!
           link_url: https://maps.app.goo.gl/74ccuyFdN6BQhm439
-        - title: Best Places For Deserts
+        - title: Best Places For Desserts
           date: 13 January 2024
           announcement: Play Time With Good Food At Cat Cafe
           link_text: Find Me!
