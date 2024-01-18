@@ -1,5 +1,5 @@
 collections:
-  speeches-by-pm-lee:
+  speeches:
     output: true
     order:
       - faq.md
