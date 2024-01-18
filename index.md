@@ -9,25 +9,25 @@ sections:
   - hero:
       title: Tan Jin Hui
       subtitle: Interested in the Product Field and Most Importantly, Food.
-      background: /images/hero-banner.png
+      background: /images/debbie_tea_LO7rNP0LRro_unsplash.jpg
       button: Contact Me
       url: https://www.linkedin.com/in/tanjinhui/
   - textcards:
       title: WHERE TO GO
-      subtitle: "This Month's Recommendations "
+      subtitle: This Month's Recommendations
       id: textcards
       description: Eat, Drink, Spend Time
       cards:
-        - title: "Best Food "
-          description: "Greek Food For Fancy Nights "
+        - title: Best Food
+          description: Greek Food For Fancy Nights
           linktext: Learn more
           url: https://maps.app.goo.gl/s1uJWboUgmWSpTSr5
-        - title: "Best Drinks "
-          description: "Affordable Nice Drinks Here. "
+        - title: Best Drinks
+          description: Affordable Nice Drinks Here.
           linktext: Learn more
           url: https://maps.app.goo.gl/cSRQyFqimf72SbKy9
-        - title: "Best Activity "
-          description: "Draw And Relax. "
+        - title: Best Activity
+          description: Draw And Relax.
           linktext: Learn more
           url: https://maps.app.goo.gl/Fd8Pdp8brgk78SvE8
   - announcements:
@@ -35,14 +35,14 @@ sections:
       id: announcements
       subtitle: Unexpected food finds
       announcement_items:
-        - title: "Best Places For Soba "
+        - title: Best Places For Soba
           date: 18 January 2024
           announcement: Good Food Found Here. Affordable, Quality Food.
           link_text: Find Me!
           link_url: https://maps.app.goo.gl/2x6T1NSRJXEvE99q8
-        - title: "Best Places For Bread "
+        - title: Best Places For Bread
           date: 16 January 2024
-          announcement: "Best Bakery In Town. "
+          announcement: Best Bakery In Town.
           link_text: Find Me!
           link_url: https://maps.app.goo.gl/74ccuyFdN6BQhm439
         - title: Best Places For Deserts
