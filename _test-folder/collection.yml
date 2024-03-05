@@ -1,5 +1,0 @@
-collections:
-  test-folder:
-    output: true
-    order:
-      - Testing 1.md
