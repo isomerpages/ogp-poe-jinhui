@@ -4,14 +4,19 @@ title: Title
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: "This is testing. "
+notification: This is testing.
 sections:
   - hero:
       title: Tan Jin Hui
-      subtitle: Interested in the Product Field and Most Importantly, Food.
+      subtitle: "Testing123! "
       background: /images/debbie_tea_LO7rNP0LRro_unsplash.jpg
-      button: Contact Me
-      url: https://www.linkedin.com/in/tanjinhui/
+      dropdown:
+        title: Choose
+        options:
+          - title: Hero Dropdown Element Title
+            url: https://guide.isomer.gov.sg/guide/your-workspace/pages/create-a-page
+          - title: Hero Dropdown Element Title 2
+            url: https://guide.isomer.gov.sg/guide/your-workspace/pages/create-a-page
   - textcards:
       title: WHERE TO GO
       subtitle: This Month's Recommendations
