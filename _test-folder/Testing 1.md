@@ -4,4 +4,5 @@ permalink: /test-folder/permalink/
 variant: tiptap
 description: ""
 ---
-<p>This is a testing page.</p>
+<p><strong>This is a testing page.</strong>
+</p>
