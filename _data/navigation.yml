@@ -4,3 +4,7 @@ links:
     url: /contact-us/
   - title: Example Page
     url: /example-page/
+  - title: Speeches
+    collection: speeches
+  - title: test folder
+    collection: test-folder
