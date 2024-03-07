@@ -1,4 +1,5 @@
 collections:
   interests-and-hobbies:
     output: true
-    order: []
+    order:
+      - Travel.md
