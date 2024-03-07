@@ -7,16 +7,11 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Tan Jin Hui
-      subtitle: Testing123!
+      title: "Welcome to Jinhui's Site "
+      subtitle: "Get to know me better! "
       background: /images/debbie_tea_LO7rNP0LRro_unsplash.jpg
-      dropdown:
-        title: Choose
-        options:
-          - title: Hero Dropdown Element Title
-            url: https://guide.isomer.gov.sg/guide/your-workspace/pages/create-a-page
-          - title: Hero Dropdown Element Title 2
-            url: https://guide.isomer.gov.sg/guide/your-workspace/pages/create-a-page
+      button: "Find out more "
+      url: /about-me
   - textcards:
       title: WHERE TO GO
       subtitle: This Month's Recommendations
