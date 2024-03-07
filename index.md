@@ -33,7 +33,7 @@ sections:
           link_url: ""
   - resources:
       title: Resources
-      subtitle: "Daily food updates "
+      subtitle: Daily Food / DRINK Updates
       id: resources
-      button: "View all "
+      button: View all
 ---
