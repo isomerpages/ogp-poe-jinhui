@@ -13,17 +13,17 @@ locations:
         time: 9.30am - 6.00pm
         description: Closed on Public Holidays
       - days: Weekends
-        time: "Closed Unless Urgent "
+        time: Closed Unless Urgent
         description: ""
     maps_link: ""
     title: Main Home
   - address:
-      - "Our Tampines Hub "
+      - Our Tampines Hub
       - Singapore 528523
       - ""
-    title: Second Office
     operating_hours: []
     maps_link: ""
+    title: Second Office
 contacts:
   - content:
       - phone: +65 9793 9354
