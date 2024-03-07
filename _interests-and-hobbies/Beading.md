@@ -10,7 +10,7 @@ beadwork.</p>
 <h4>Her Works</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/IMG_2354_Small.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/IMG_2354_Small.jpg">
 </div>
 <h4>Here are some of the useful tutorials</h4>
 <p><strong>Beginner Level</strong>
