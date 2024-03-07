@@ -11,7 +11,8 @@ and aim to contribute to Isomer's goal of empowering the government to
 easily and effectively communicate with citizens, while enabling citizens
 to easily find information they are looking for</p>
 <p>Beyond work, she also loves to recommend food and beverages. Check out
-her mediocre <a href="/recommendations/permalink/coffee/" rel="noopener noreferrer nofollow" target="_blank">recommendations here.</a>.</p>
+her mediocre <a href="/recommendations/permalink/coffee/" rel="noopener noreferrer nofollow" target="_blank">recommendations here.</a>
+</p>
 <p></p>
 <p></p>
 <p></p>
