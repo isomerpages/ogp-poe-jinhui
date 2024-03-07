@@ -2,6 +2,7 @@ collections:
   interests-and-hobbies:
     output: true
     order:
+      - Travel/Collections.md
       - Travel/overview.md
       - Travel/.keep
       - Food.md
