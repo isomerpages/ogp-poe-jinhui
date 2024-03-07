@@ -2,4 +2,5 @@ collections:
   about-me:
     output: true
     order:
+      - Vision, Mission and Values.md
       - Organisation.md
