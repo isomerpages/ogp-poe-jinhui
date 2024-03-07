@@ -7,9 +7,9 @@ description: ""
 <p>Thanks to the Taylor Swift Eras Tour, she has embarked on the beading
 journey since 3 months ago. Ever since, she has developed an interest in
 beadwork.</p>
-<h4>Here are some of her works:</h4>
+<h4>Here are some of her works</h4>
 <p></p>
-<h4>Here are some of the tutorial she found useful:</h4>
+<h4>Here are some of the useful tutorials</h4>
 <p><strong>Beginner Level</strong>
 </p>
 <div class="iframe-wrapper">
