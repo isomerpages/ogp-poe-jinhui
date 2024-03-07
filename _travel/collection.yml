@@ -1,0 +1,4 @@
+collections:
+  travel:
+    output: true
+    order: []
