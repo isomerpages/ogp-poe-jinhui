@@ -2,5 +2,6 @@ collections:
   interests-and-hobbies:
     output: true
     order:
+      - Beading.md
       - Food.md
       - Travel.md
