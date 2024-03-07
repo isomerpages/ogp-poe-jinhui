@@ -7,13 +7,17 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Welcome to Jinhui's Site
-      subtitle: Get to know me better!
+      title: hello, it's jinhui
+      subtitle: "welcome to my site. "
       background: /images/debbie_tea_LO7rNP0LRro_unsplash.jpg
       button: Find out more
       url: /about-me
+      key_highlights:
+        - title: "Think you know her well? "
+          description: "Take a quiz on her today. "
+          url: ""
   - infopic:
-      title: Food Recommendations
+      title: A mediocre foodie
       id: infopic
       description: Join in on her mediocre food adventures, ranging from cafe to
         comforting hawker foods.
@@ -21,19 +25,9 @@ sections:
       url: /recommendations
       image: /images/Screenshot_2024_03_07_at_9_36_33_PM.png
       alt: meehoon
-  - announcements:
-      title: Announcements
-      id: announcements
-      subtitle: Add a list of announcements with dates
-      announcement_items:
-        - title: New Announcement
-          date: 07 March 2024
-          announcement: Announcement content
-          link_text: ""
-          link_url: ""
   - resources:
-      title: Resources
-      subtitle: Daily Food / DRINK Updates
+      title: FOOD & DRINKS
+      subtitle: jinhui's reviews
       id: resources
       button: View all
 ---
