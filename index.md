@@ -21,4 +21,19 @@ sections:
       url: /recommendations
       image: /images/Screenshot_2024_03_07_at_9_36_33_PM.png
       alt: meehoon
+  - announcements:
+      title: Announcements
+      id: announcements
+      subtitle: Add a list of announcements with dates
+      announcement_items:
+        - title: New Announcement
+          date: 07 March 2024
+          announcement: Announcement content
+          link_text: ""
+          link_url: ""
+  - resources:
+      title: Resources
+      subtitle: "Daily food updates "
+      id: resources
+      button: "View all "
 ---
