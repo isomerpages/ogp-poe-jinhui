@@ -19,7 +19,7 @@ sections:
   - infopic:
       title: A mediocre foodie
       id: infopic
-      description: Join in on her mediocre food adventures, ranging from cafe to
+      description: Join in on her subpar food adventures, ranging from cafe to
         comforting hawker foods.
       button: Find out more
       url: /recommendations
