@@ -15,10 +15,10 @@ sections:
   - infopic:
       title: Food Recommendations
       id: infopic
-      description: "Join in on her mediocre food adventures, ranging from cafe to
-        comforting hawker foods.  "
+      description: Join in on her mediocre food adventures, ranging from cafe to
+        comforting hawker foods.
       button: Find out more
-      url: /food-recommendations
+      url: /recommendations
       image: /images/Screenshot_2024_03_07_at_9_36_33_PM.png
       alt: meehoon
 ---
