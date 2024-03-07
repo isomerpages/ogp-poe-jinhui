@@ -10,8 +10,6 @@ sections:
       title: hello, it's jinhui
       subtitle: welcome to my site.
       background: /images/debbie_tea_LO7rNP0LRro_unsplash.jpg
-      button: Find out more
-      url: /background-and-organisation
       key_highlights:
         - title: Think you know her well?
           description: Take a quiz on her today.
