@@ -2,5 +2,6 @@ collections:
   recommendations:
     output: true
     order:
+      - Food Recommendations/.keep
       - Food Recommendations.md
       - Coffee Recommendations.md
