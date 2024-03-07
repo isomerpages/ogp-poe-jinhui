@@ -13,7 +13,7 @@ to easily find information they are looking for</p>
 <p>Beyond work, she has various interests and hobbies. <a href="" rel="noopener noreferrer nofollow" target="_blank">Check out her interests here.</a>
 </p>
 <p>She also loves to recommend food and beverages. Check out her mediocre
-recommendations here.</p>
+<a href="/recommendations/permalink/coffee/" rel="noopener noreferrer nofollow" target="_blank">recommendations here.</a>.</p>
 <p></p>
 <p></p>
 <p></p>
