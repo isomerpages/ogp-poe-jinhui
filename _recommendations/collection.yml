@@ -1,4 +1,4 @@
 collections:
-  food-recos:
+  recommendations:
     output: true
     order: []
