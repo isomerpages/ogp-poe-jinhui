@@ -1,6 +1,6 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: "About Me "
-    url: /example-page/
+  - title: About Me
+    url: /about-me
   - title: Contact Us
     url: /contact-us/
