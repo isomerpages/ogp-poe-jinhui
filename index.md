@@ -8,14 +8,14 @@ notification: ""
 sections:
   - hero:
       title: hello, it's jinhui
-      subtitle: "welcome to my site. "
+      subtitle: welcome to my site.
       background: /images/debbie_tea_LO7rNP0LRro_unsplash.jpg
       button: Find out more
       url: /about-me
       key_highlights:
-        - title: "Think you know her well? "
-          description: "Take a quiz on her today. "
-          url: ""
+        - title: Think you know her well?
+          description: Take a quiz on her today.
+          url: https://go.gov.sg/gettoknowjinhui
   - infopic:
       title: A mediocre foodie
       id: infopic
