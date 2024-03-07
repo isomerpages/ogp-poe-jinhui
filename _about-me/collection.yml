@@ -2,6 +2,6 @@ collections:
   about-me:
     output: true
     order:
-      - Accolades and Achievements.md
-      - Vision, Mission and Values.md
       - Organisation.md
+      - Vision, Mission and Values.md
+      - Accolades and Achievements.md
