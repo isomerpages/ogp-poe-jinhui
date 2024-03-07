@@ -1,0 +1,4 @@
+collections:
+  interests:
+    output: true
+    order: []
