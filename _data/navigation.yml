@@ -1,9 +1,9 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: "About Me "
+  - title: About Me
     collection: about-me
   - title: Interest and hobbies
-    collection: about-me
+    collection: interests-and-hobbies
   - title: RECOMMENDATIONS
     collection: recommendations
   - title: Contact Me
