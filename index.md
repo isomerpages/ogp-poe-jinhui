@@ -1,14 +1,14 @@
 ---
 layout: homepage
-title: Title
+title: "Jin Hui's Site "
 description: An Isomer site of the Singapore Government
-image: /images/isomer-logo.svg
+image: /images/JINHUI.png
 permalink: /
 notification: This is testing.
 sections:
   - hero:
       title: Tan Jin Hui
-      subtitle: "Testing123! "
+      subtitle: Testing123!
       background: /images/debbie_tea_LO7rNP0LRro_unsplash.jpg
       dropdown:
         title: Choose
