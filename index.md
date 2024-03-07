@@ -1,10 +1,10 @@
 ---
 layout: homepage
-title: "Jin Hui's Site "
+title: Jin Hui's Site
 description: An Isomer site of the Singapore Government
 image: /images/JINHUI.png
 permalink: /
-notification: This is testing.
+notification: ""
 sections:
   - hero:
       title: Tan Jin Hui
