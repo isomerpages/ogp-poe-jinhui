@@ -2,38 +2,33 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: US
+agency_name: Jin Hui
 locations:
   - address:
-      - 31 Sesame Street
-      - Big Bird Building
-      - Singapore 123456
+      - Tampines St 82
+      - 842E
+      - Singapore 525842
     operating_hours:
       - days: Mon - Fri
-        time: 8.30am - 6.00pm
+        time: 9.30am - 6.00pm
         description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
+      - days: Weekends
+        time: "Closed Unless Urgent "
         description: ""
     maps_link: ""
-    title: Main Office
+    title: Main Home
   - address:
-      - 109 North Bridge Road
-      - Singapore 179097
+      - "Our Tampines Hub "
+      - Singapore 528523
       - ""
+    title: Second Office
     operating_hours: []
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
-    title: Branch Office
+    maps_link: ""
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
+      - phone: +65 9793 9354
+      - email: jinhui@open.gov.sg
+      - other: call if urgent
     title: General Enquiries & Feedback
-  - content:
-      - phone: ""
-      - email: careers@abc.gov.sg
-      - other: ""
-    title: Careers
 feedback: ""
 ---
