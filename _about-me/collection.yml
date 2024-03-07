@@ -1,5 +1,4 @@
 collections:
   about-me:
     output: true
-    order:
-      - Pastas.md
+    order: []
