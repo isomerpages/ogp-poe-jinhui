@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Travel/.keep
-      - Travel/overview.md
+      - Travel/Overview.md
       - Travel/Collections.md
       - Food.md
       - Beading.md
