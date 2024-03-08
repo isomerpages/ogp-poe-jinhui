@@ -8,3 +8,5 @@ links:
     collection: recommendations
   - title: Contact Me
     url: /contact-us/
+  - title: Daily Recs
+    resource_room: true
