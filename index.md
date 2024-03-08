@@ -17,7 +17,7 @@ sections:
   - infopic:
       title: A mediocre foodie
       id: infopic
-      description: Join in on her subpar food adventures, ranging from cafe to
+      description: Join in on her subpar food adventures, ranging from restaurants to
         comforting hawker foods.
       button: Find out more
       url: recommendations/food-recommendations/permalink/greek/
