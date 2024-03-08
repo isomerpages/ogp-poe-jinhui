@@ -5,6 +5,6 @@ collections:
       - Drinks/.keep
       - Drinks/Coffee.md
       - Drinks/Matcha.md
-      - Food Recommendations/Greek.md
-      - Food Recommendations/Japanese.md
-      - Food Recommendations/.keep
+      - Food/Greek.md
+      - Food/Japanese.md
+      - Food/.keep
