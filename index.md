@@ -9,11 +9,21 @@ sections:
   - hero:
       title: hello, it's jinhui
       subtitle: welcome to my site.
-      background: /images/debbie_tea_LO7rNP0LRro_unsplash.jpg
+      background: /images/ScreenRecording2024_03_08at2_04_02PM_ezgif_com_video_to_gif_converter.gif
       key_highlights:
-        - title: Think you know her well?
-          description: Take a quiz on her today.
+        - title: There is no maxium for title ffffffffffffffffffffff
+          description: f1234567891234563456789123
           url: https://go.gov.sg/gettoknowjinhui
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
+      variant: image
   - infopic:
       title: A mediocre foodie
       id: infopic
