@@ -2,9 +2,9 @@ collections:
   recommendations:
     output: true
     order:
-      - Drink Recommendations/.keep
-      - Drink Recommendations/Coffee.md
-      - Drink Recommendations/Matcha.md
+      - Drinks/.keep
+      - Drinks/Coffee.md
+      - Drinks/Matcha.md
       - Food Recommendations/Greek.md
       - Food Recommendations/Japanese.md
       - Food Recommendations/.keep
