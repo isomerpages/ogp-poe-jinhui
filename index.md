@@ -38,4 +38,16 @@ sections:
       subtitle: jinhui's reviews
       id: resources
       button: View all
+  - infobar:
+      title: Infobar
+      subtitle: Add informational text
+      id: infobar
+      description: Infobar description
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: The Singapore Green Plan 2030, or the Green Plan, is a
+        whole-of-nation movement to advance Singapore’s national agenda on
+        sustainable development.
 ---
