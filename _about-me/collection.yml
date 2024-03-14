@@ -2,6 +2,7 @@ collections:
   about-me:
     output: true
     order:
+      - Example Title.md
       - Background and Organisation.md
       - Vision, Mission and Values.md
       - Accolades and Achievements.md
