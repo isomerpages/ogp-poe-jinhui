@@ -1,12 +1,4 @@
 logo: /images/JINHUI.png
 links:
-  - title: About Me
-    collection: about-me
-  - title: Interest and hobbies
-    collection: interests-and-hobbies
-  - title: Recommendations
-    collection: recommendations
-  - title: Contact Me
-    url: /contact-us/
-  - title: Daily Recs
+  - title: New resource room
     resource_room: true
