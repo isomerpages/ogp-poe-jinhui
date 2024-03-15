@@ -1,7 +1,0 @@
----
-title: Testing Page
-permalink: /about-me/testing-folder-under-about-me/testingpage1/
-variant: tiptap
-description: ""
-third_nav_title: Testing Folder
----
