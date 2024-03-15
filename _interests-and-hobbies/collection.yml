@@ -2,7 +2,7 @@ collections:
   interests-and-hobbies:
     output: true
     order:
-      - Example Title.md
+      - Interest and Hobbies.md
       - Travel/.keep
       - Travel/Overview.md
       - Travel/Collections.md
