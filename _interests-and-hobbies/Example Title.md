@@ -1,0 +1,7 @@
+---
+title: Example Title
+permalink: /about-me/testing-folder-under-about-me/testingpage1/
+variant: tiptap
+description: ""
+---
+<p>TEST</p>
