@@ -8,11 +8,14 @@ notification: This is the Notification Banner
 sections:
   - hero:
       title: This is my site.
-      subtitle: welcome to my site.
-      background: /images/hero-banner.png
+      subtitle: "Welcome to my site. Click below to explore more of my site. "
+      background: /images/debbie_tea_LO7rNP0LRro_unsplash.jpg
       variant: side
       url: /view-more
       backgroundColor: gray
+      button: View more
+      size: sm
+      alignment: left
   - infopic:
       title: Testing Title
       id: infopic
