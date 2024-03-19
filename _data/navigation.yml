@@ -2,5 +2,5 @@ logo: /images/JINHUI.png
 links:
   - title: New resource room
     resource_room: true
-  - title: "About Me "
+  - title: About Me
     collection: about-me
