@@ -1,8 +1,8 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Resources
-    resource_room: true
   - title: About This Site
     collection: about-me
-  - title: "Contact Us "
+  - title: Resources
+    resource_room: true
+  - title: Contact Us
     url: /contact-us
