@@ -1,6 +1,8 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: New resource room
+  - title: Resources
     resource_room: true
-  - title: About Me
+  - title: About This Site
     collection: about-me
+  - title: "Contact Us "
+    url: /contact-us
