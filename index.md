@@ -7,17 +7,15 @@ permalink: /
 notification: This is the Notification Banner
 sections:
   - hero:
-      title: "This is my site. "
+      title: This is my site.
       subtitle: welcome to my site.
       background: /images/hero-banner.png
-      variant: center
-      button: view more
+      variant: image
       url: /view-more
   - infopic:
-      title: A mediocre foodie
+      title: Testing Title
       id: infopic
-      description: Join her subpar food adventures, ranging from restaurants to
-        comforting hawker foods.
+      description: "This is a testing section. "
       button: Find out more
       url: recommendations/food-recommendations/permalink/greek/
       image: /images/Screenshot_2024_03_07_at_9_36_33_PM.png
