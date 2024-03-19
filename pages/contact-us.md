@@ -2,33 +2,39 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Jin Hui
+agency_name: "Agency Name "
 locations:
   - address:
-      - Tampines St 82
-      - 842E
-      - Singapore 525842
+      - 10 Pasir Panjang Road
+      - "#10-01, Mapletree City"
+      - Singapore 117438
     operating_hours:
       - days: Mon - Fri
         time: 9.30am - 6.00pm
         description: Closed on Public Holidays
       - days: Weekends
-        time: Closed Unless Urgent
+        time: "Closed "
         description: ""
     maps_link: ""
-    title: Main Home
+    title: Main Office
   - address:
-      - Our Tampines Hub
-      - Singapore 528523
-      - ""
-    operating_hours: []
+      - "140 Hill Street "
+      - "#01-01A"
+      - Singapore 179369
+    operating_hours:
+      - days: Mon - Fri
+        time: 9.30am - 6.00pm
+        description: ""
+      - days: Weekend
+        time: Closed
+        description: ""
     maps_link: ""
     title: Second Office
 contacts:
   - content:
-      - phone: +65 9793 9354
-      - email: jinhui@open.gov.sg
-      - other: call if urgent
+      - phone: +65 6543 2101
+      - email: testing@open.gov.sg
+      - other: ""
     title: General Enquiries & Feedback
-feedback: ""
+feedback: https://go.gov.sg/jinhuifeedback
 ---
