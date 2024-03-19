@@ -2,4 +2,5 @@ collections:
   testing-folder:
     output: true
     order:
+      - Moving Folder/Testing Page.md
       - Moving Folder/.keep
