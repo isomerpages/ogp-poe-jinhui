@@ -4,26 +4,15 @@ title: Jin Hui's Site
 description: An Isomer site of the Singapore Government
 image: /images/JINHUI.png
 permalink: /
-notification: https://docs.google.com/spreadsheets/d/1h71KdoqEMjMsstGBh9jFO21_aek_IJ-N3e0NR7VtJLY/edit#gid=0
+notification: This is the Notification Banner
 sections:
   - hero:
-      title: hello, it's jinhui
+      title: "This is my site. "
       subtitle: welcome to my site.
-      background: /images/ScreenRecording2024_03_08at2_04_02PM_ezgif_com_video_to_gif_converter.gif
-      key_highlights:
-        - title: There is no maxium for title ffffffffffffffffffffff
-          description: f1234567891234563456789123
-          url: https://go.gov.sg/gettoknowjinhui
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
-      variant: image
+      background: /images/hero-banner.png
+      variant: center
+      button: view more
+      url: /view-more
   - infopic:
       title: A mediocre foodie
       id: infopic
