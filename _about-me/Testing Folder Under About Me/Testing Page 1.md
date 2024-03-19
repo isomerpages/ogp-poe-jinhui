@@ -9,3 +9,8 @@ third_nav_title: Testing Folder Under About Me
 <iframe allowfullscreen="true" frameborder="0" src="https://calendar.google.com/calendar/embed?src=jinhui%40open.gov.sg&amp;ctz=Asia%2FSingapore"></iframe>
 </div>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_03_07_at_11_42_27_PM.png">
+</div>
+<p></p>
