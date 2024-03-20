@@ -1,5 +1,5 @@
 collections:
-  about-me:
+  testing-folder-1:
     output: true
     order:
       - Background and Organisation.md
