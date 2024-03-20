@@ -17,16 +17,16 @@ sections:
       size: md
       alignment: left
   - infopic:
-      title: Testing Title
+      title: Title
       id: infopic
-      description: This is a testing section.
+      description: "Description Here "
       button: Find out more
-      url: recommendations/food-recommendations/permalink/greek/
-      image: /images/Screenshot_2024_03_07_at_9_36_33_PM.png
-      alt: meehoon
+      url: /page-url
+      image: /images/insert_image.png
+      subtitle: Subtitle here
   - resources:
-      title: FOOD & DRINKS
-      subtitle: jinhui's reviews
+      title: Title
+      subtitle: "Subtitle "
       id: resources
       button: View all
   - infobar:
@@ -34,6 +34,8 @@ sections:
       subtitle: Add informational text
       id: infobar
       description: Infobar description
+      button: Find out more
+      url: /page-url
   - infopic:
       title: Infopic
       subtitle: Add an image and text
@@ -41,4 +43,22 @@ sections:
       description: The Singapore Green Plan 2030, or the Green Plan, is a
         whole-of-nation movement to advance Singapore’s national agenda on
         sustainable development.
+  - textcards:
+      title: Text Cards
+      subtitle: Add informational text
+      id: textcards
+      description: Text card description
+      cards:
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
 ---
