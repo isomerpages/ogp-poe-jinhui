@@ -2,6 +2,7 @@ collections:
   testing-folder-2:
     output: true
     order:
+      - Collections.md
       - Overview.md
       - Drinks/.keep
       - Drinks/Coffee.md
