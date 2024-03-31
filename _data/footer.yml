@@ -1,5 +1,6 @@
 contact_us: /contact-us/
 show_reach: true
 faq: /faq/
-social_media: {}
+social_media:
+  facebook: https://www.facebook.com/test/
 feedback: https://go.gov.sg/feedback
