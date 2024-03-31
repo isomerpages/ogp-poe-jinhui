@@ -1,8 +1,8 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Testing Folder 1
-    collection: testing-folder-1
   - title: Resources
     resource_room: true
   - title: Contact Us
     url: /contact-us
+  - title: New folder
+    collection: testing-folder
