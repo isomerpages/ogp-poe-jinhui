@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Jin Hui's Site
+title: "Site Title "
 description: An Isomer site of the Singapore Government
 image: /images/JINHUI.png
 permalink: /
@@ -19,14 +19,14 @@ sections:
   - infopic:
       title: Title
       id: infopic
-      description: "Description Here "
+      description: Description Here
       button: Find out more
       url: /page-url
       image: /images/insert_image.png
       subtitle: Subtitle here
   - resources:
       title: Title
-      subtitle: "Subtitle "
+      subtitle: Subtitle
       id: resources
       button: View all
   - infobar:
