@@ -4,4 +4,4 @@ permalink: /privacy/
 variant: tiptap
 description: ""
 ---
-<p></p>
+<p>This is where your privacy statement lies.</p>
