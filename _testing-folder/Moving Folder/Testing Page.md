@@ -7,4 +7,4 @@ third_nav_title: Moving Folder
 ---
 <p>hyperlink</p>
 
-<a href="https://us06webv.zoom.us/webinar/register/WN\_NP7tAaGjQMmDSv4wXm\_9pw target=">Click here</a>
+<a target="_blank" href="https://us06webv.zoom.us/webinar/register/WN\_NP7tAaGjQMmDSv4wXm\_9pw">Click here</a>
