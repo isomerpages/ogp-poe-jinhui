@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: "Site Title "
+title: Site Title
 description: An Isomer site of the Singapore Government
 image: /images/JINHUI.png
 permalink: /
@@ -16,6 +16,12 @@ sections:
       button: View more
       size: md
       alignment: left
+      key_highlights:
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: <a
+            href="https://us06webv.zoom.us/webinar/register/WN_NP7tAaGjQMmDSv4wXm_9pw
+            target=">Click here</a>
   - infopic:
       title: Title
       id: infopic
