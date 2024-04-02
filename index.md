@@ -41,7 +41,7 @@ sections:
       id: infobar
       description: Infobar description
       button: Find out more
-      url: /page-url
+      url: https://isomer.zendesk.com/agent/tickets/9319
   - infopic:
       title: Infopic
       subtitle: Add an image and text
