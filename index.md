@@ -58,7 +58,7 @@ sections:
         - title: Card
           description: Card description
           linktext: Learn more
-          url: ""
+          url: https://isomer.zendesk.com/agent/tickets/9319
         - title: Card
           description: Card description
           linktext: Learn more
