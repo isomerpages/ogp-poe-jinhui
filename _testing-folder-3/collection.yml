@@ -1,0 +1,8 @@
+collections:
+  testing-folder-3:
+    output: true
+    order:
+      - Interest and Hobbies.md
+      - Travel/.keep
+      - Food.md
+      - Beading.md
