@@ -34,16 +34,14 @@ description: ""
 <p></p>
 <p>Senior Vice-Provost
 <br>(Undergraduate Education)
-<br>
 <br>National University of Singapore</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Juthika Ramanathan</strong>
 </p>
 <p></p>
-<p>Chief Executive</p>
-<p>(Office of the Chief Justice)
-<br>
+<p>Chief Executive
+<br>(Office of the Chief Justice)
 <br>Supreme Court of Singapore</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -51,9 +49,8 @@ description: ""
 </p>
 <p></p>
 <p>Deputy Chief Executive Officer
-<br>(Building Control)
+<br>(Building Control)/
 <br>Commissioner of Buildings
-<br>
 <br>Building and
 <br>Construction Authority (BCA)</p>
 </td>
