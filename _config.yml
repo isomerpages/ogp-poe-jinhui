@@ -2,19 +2,19 @@ title: Site Title
 url: https://shazli-intervened-here.com
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#f8e71c"
-  secondary-color: "#b8e986"
+  primary-color: "#9013fe"
+  secondary-color: "#4a90e2"
   media-colors:
     - title: media-color-one
-      color: "#7ed321"
+      color: "#f5a623"
     - title: media-color-two
-      color: "#d0021b"
+      color: "#50e3c2"
     - title: media-color-three
-      color: "#00838f"
+      color: "#d0021b"
     - title: media-color-four
-      color: "#00838f"
+      color: "#8b572a"
     - title: media-color-five
-      color: "#00838f"
+      color: "#417505"
 description: An Isomer site of the Singapore Government
 permalink: none
 baseurl: ""
