@@ -14,7 +14,7 @@ Hari Raya Puasa.</p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 845.328px;" height="auto" width="100%" alt="ramadan bazaar lights" src="https://www.pa.gov.sg/images/IMG_7164.jpg">
 </div>
-<h2><a href="#hariraya">Ramadan and Hari Raya Puasa in Singapore</a></h2>
+<h2>Ramadan and Hari Raya Puasa in Singapore</h2>
 <p>According to the Islamic Religious Council of Singapore (Muis), Ramadan
 commences on 12 March 2024, and its conclusion will mark the arrival of
 Hari Raya Aidilfitri, also known as Hari Raya Puasa, on 10 April 2024.</p>
@@ -40,7 +40,7 @@ due to their specific conditions.</p>
 <p>Children are not required to fast until they reach puberty.</p>
 </li>
 </ul>
-<h3>What is the difference between Hari Raya Puasa and Hari Raya Haji?</h3>
+<h3><a href="#hariraya">What is the difference between Hari Raya Puasa and Hari Raya Haji?</a></h3>
 <p>Though both celebrated with joy, Hari Raya Puasa and Hari Raya Haji mark
 different occasions.</p>
 <p>Hari Raya Puasa celebrates the end of the fasting month of Ramadan while
