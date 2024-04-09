@@ -23,12 +23,12 @@ sections:
             href="https://us06webv.zoom.us/webinar/register/WN_NP7tAaGjQMmDSv4wXm_9pw
             target=">Click here</a>
   - infopic:
-      title: "Anchor Test "
+      title: Anchor Test
       subtitle: Add an image and text
       id: infopic
       description: Infopic description
-      button: "Hari Raya "
-      url: /faq#hariraya
+      button: Hari Raya
+      url: /faq/#hariraya
       image: /images/Screenshot_2024_03_07_at_11_45_17_PM.png
       alt: Image alt text
   - resources:
