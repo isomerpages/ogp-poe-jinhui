@@ -20,7 +20,7 @@ description: ""
 
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><a href="#anchor2">Anchor 1</a></summary>
+<a href="#anchor2">Anchor 1</a>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>testing here</p>
 </div>
