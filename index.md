@@ -42,7 +42,7 @@ sections:
       id: infopic
       description: Infopic description
       button: Button Text
-      url: /accordion-anchor/
+      url: /accordion-anchor/#anchor1
       image: /images/Screenshot_2024_03_07_at_11_42_27_PM.png
       alt: Image alt text
 ---
