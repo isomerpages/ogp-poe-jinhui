@@ -36,4 +36,13 @@ sections:
       subtitle: Subtitle
       id: resources
       button: View all
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      url: /accordion-anchor/
+      image: /images/Screenshot_2024_03_07_at_11_42_27_PM.png
+      alt: Image alt text
 ---
