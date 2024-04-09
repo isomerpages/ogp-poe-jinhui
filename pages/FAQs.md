@@ -40,7 +40,10 @@ due to their specific conditions.</p>
 <p>Children are not required to fast until they reach puberty.</p>
 </li>
 </ul>
-<h3><a href="#hariraya">What is the difference between Hari Raya Puasa and Hari Raya Haji?</a></h3>
+
+<section id="hariraya">
+	<h3>What is the difference between Hari Raya Puasa and Hari Raya Haji?</h3>
+	
 <p>Though both celebrated with joy, Hari Raya Puasa and Hari Raya Haji mark
 different occasions.</p>
 <p>Hari Raya Puasa celebrates the end of the fasting month of Ramadan while
@@ -77,4 +80,4 @@ in envelopes to children and elders during Hari Raya Puasa.</p>
 <p>Salam Lebaran (similar to Selamat Hari Raya)</p>
 </li>
 </ul>
-<p></p>
+<p></p></section>
