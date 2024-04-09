@@ -74,11 +74,13 @@ called the ILAC mark. This is to be used alongside the logo of the accreditation
 body. An example of how the ILAC mark is used by accredited laboratories
 in Singapore is demonstrated below:</p>
 <p></p>
+<p></p>
+<p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary></summary>
+<summary>&lt;section id="anchor1"&gt; Testing title</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Testing it here</p>
 </div>
 </details>
 </div>
