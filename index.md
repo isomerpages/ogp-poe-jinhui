@@ -32,13 +32,21 @@ sections:
           description: Key Highlight description
           url: ""
   - infopic:
-      title: Anchor Test
+      title: Infopic
       subtitle: Add an image and text
       id: infopic
       description: Infopic description
-      button: Hari Raya
+      button: CLICK HERE
       url: /faq/#hariraya
       image: /images/Screenshot_2024_03_07_at_11_45_17_PM.png
+      alt: Image alt text
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      image: /images/Screenshot_2024_03_07_at_9_36_33_PM.png
       alt: Image alt text
   - resources:
       title: Title
