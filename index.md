@@ -4,7 +4,7 @@ title: Site Title
 description: An Isomer site of the Singapore Government
 image: /images/JINHUI.png
 permalink: /
-notification: "https://www.google.com/ "
+notification: <a href="https://www.google.com/"><p>google link here</p></a>
 sections:
   - hero:
       title: This is my site.
