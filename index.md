@@ -4,13 +4,13 @@ title: Site Title
 description: An Isomer site of the Singapore Government
 image: /images/JINHUI.png
 permalink: /
-notification: This is the Notification Banner
+notification: "https://www.google.com/ "
 sections:
   - hero:
       title: This is my site.
       subtitle: Welcome to my site. Click below to explore more of my site.
       background: /images/hero-banner.png
-      variant: center
+      variant: side
       url: /view-more
       backgroundColor: gray
       button: View more
@@ -22,6 +22,15 @@ sections:
           url: <a
             href="https://us06webv.zoom.us/webinar/register/WN_NP7tAaGjQMmDSv4wXm_9pw
             target=">Click here</a>
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
   - infopic:
       title: Anchor Test
       subtitle: Add an image and text
