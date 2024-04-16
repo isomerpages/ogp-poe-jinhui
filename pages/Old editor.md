@@ -4,7 +4,8 @@ permalink: /permalink/
 variant: markdown
 description: ""
 ---
-[test](/files/9753_y23_sy__1_.pdf)
+[test](/files/9753_y23_sy__1_.pdf){:target\="_blank"} 
+
 
 <a target="_blank" href="/files/9753_y23_sy__1_.pdf">Click Here</a>
 
