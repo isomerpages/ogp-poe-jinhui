@@ -11,6 +11,8 @@ can be relied on to provide competent services, such as certification activities
 testing, calibration and inspection. Key to international trade, the MRAs
 promote cross border stakeholder confidence and the acceptance of accredited
 conformity assessment bodies.</p>
+<p><a href="/files/9753_y23_sy__1_.pdf" rel="noopener noreferrer nofollow" target="_blank">file </a>
+</p>
 <h3>Benefit from MRAs?</h3>
 <p>SAC's signatory status in the MRAs is a global passport for enterprises
 in Singapore. There is no need for duplicative re-testing, re-inspection
