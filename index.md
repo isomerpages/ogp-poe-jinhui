@@ -17,20 +17,12 @@ sections:
       size: md
       alignment: left
       key_highlights:
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: <a
-            href="https://us06webv.zoom.us/webinar/register/WN_NP7tAaGjQMmDSv4wXm_9pw
-            target=">Click here</a>
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
+        - title: "INSTAGRAM "
+          description: Stay updated on our events
+          url: https://www.instagram.com
+        - title: Facebook
+          description: Join our community
+          url: https://www.facebook.com
   - infopic:
       title: Infopic
       subtitle: Add an image and text
