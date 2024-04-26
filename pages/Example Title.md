@@ -6,6 +6,8 @@ description: ""
 ---
 <h2>Making the disbursement of government payouts efficient and secure with GovWallet</h2>
 <p></p>
+<h1>Making the disbursement of government payouts efficient and secure with GovWallet</h1>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="GovWallet logo" src="/images/Products and Services/For citizens/GovWallet_logo_resized_banner.jpg">
 </div>
