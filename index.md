@@ -4,7 +4,7 @@ title: Site Title
 description: An Isomer site of the Singapore Government
 image: /images/JINHUI.png
 permalink: /
-notification: <a target="_blank" href="/faq/"><p>faq here</p></a>
+notification: ""
 sections:
   - hero:
       background: /images/hero-banner.png
