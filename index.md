@@ -7,17 +7,13 @@ permalink: /
 notification: <a target="_blank" href="/faq/"><p>faq here</p></a>
 sections:
   - hero:
-      title: This is my site.
-      subtitle: Welcome to my site. Click below to explore more of my site.
       background: /images/hero-banner.png
-      variant: side
-      url: /view-more
+      variant: center
       backgroundColor: gray
-      button: View more
       size: md
       alignment: left
       key_highlights:
-        - title: "INSTAGRAM "
+        - title: INSTAGRAM
           description: Stay updated on our events
           url: https://www.instagram.com
         - title: Facebook
