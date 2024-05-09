@@ -23,7 +23,7 @@ sections:
       title: Infopic
       subtitle: Add an image and text
       id: infopic
-      description: Infopic description
+      description: <center>Infopic description</center>
       button: CLICK HERE
       url: /faq/#hariraya
       image: /images/Screenshot_2024_03_07_at_11_45_17_PM.png
@@ -50,4 +50,14 @@ sections:
       url: /accordion-anchor/#anchor1
       image: /images/Screenshot_2024_03_07_at_11_42_27_PM.png
       alt: Image alt text
+  - infobar:
+      title: Infobar
+      subtitle: Add informational text
+      id: infobar
+      description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
+        clipboard-write; encrypted-media; gyroscope; picture-in-picture;
+        web-share" frameborder="0" title="YouTube video player"
+        src="https://www.youtube.com/embed/wSWBC4qCfjo?si=sOoZ6vQ6zy8nuv0V"
+        height="315" width="560"></iframe>
+      button: Button Text
 ---
