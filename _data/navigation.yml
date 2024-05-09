@@ -6,3 +6,9 @@ links:
     url: /contact-us
   - title: New folder
     collection: testing-folder
+  - title: FAQS
+    url: /faq
+  - title: testing
+    url: https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx
+  - title: anchor
+    url: /faq/#hariraya

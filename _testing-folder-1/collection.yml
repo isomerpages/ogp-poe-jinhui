@@ -2,6 +2,7 @@ collections:
   testing-folder-1:
     output: true
     order:
+      - Example Title.md
       - Background and Organisation.md
       - Testing Folder Under About Me/.keep
       - Testing Folder Under About Me/Testing Page 1.md

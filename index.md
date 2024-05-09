@@ -4,67 +4,60 @@ title: Site Title
 description: An Isomer site of the Singapore Government
 image: /images/JINHUI.png
 permalink: /
-notification: This is the Notification Banner
+notification: ""
 sections:
   - hero:
-      title: This is my site.
-      subtitle: Welcome to my site. Click below to explore more of my site.
-      background: /images/debbie_tea_LO7rNP0LRro_unsplash.jpg
-      variant: side
-      url: /view-more
+      background: /images/hero-banner.png
+      variant: image
       backgroundColor: gray
-      button: View more
       size: md
       alignment: left
       key_highlights:
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: <a
-            href="https://us06webv.zoom.us/webinar/register/WN_NP7tAaGjQMmDSv4wXm_9pw
-            target=">Click here</a>
+        - title: INSTAGRAM
+          description: Stay updated on our events
+          url: https://www.instagram.com
+        - title: Facebook
+          description: Join our community
+          url: https://www.facebook.com
   - infopic:
-      title: Title
+      title: Infopic
+      subtitle: Add an image and text
       id: infopic
-      description: Description Here
-      button: Find out more
-      url: /page-url
-      image: /images/insert_image.png
-      subtitle: Subtitle here
+      description: <center>Infopic description</center>
+      button: CLICK HERE
+      url: /faq/#hariraya
+      image: /images/Screenshot_2024_03_07_at_11_45_17_PM.png
+      alt: Image alt text
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      image: /images/Screenshot_2024_03_07_at_9_36_33_PM.png
+      alt: Image alt text
   - resources:
       title: Title
       subtitle: Subtitle
       id: resources
       button: View all
-  - infobar:
-      title: Infobar
-      subtitle: Add informational text
-      id: infobar
-      description: Infobar description
-      button: Find out more
-      url: https://isomer.zendesk.com/agent/tickets/9319
   - infopic:
       title: Infopic
       subtitle: Add an image and text
       id: infopic
-      description: The Singapore Green Plan 2030, or the Green Plan, is a
-        whole-of-nation movement to advance Singapore’s national agenda on
-        sustainable development.
-  - textcards:
-      title: Text Cards
+      description: Infopic description
+      button: Button Text
+      url: /accordion-anchor/#anchor1
+      image: /images/Screenshot_2024_03_07_at_11_42_27_PM.png
+      alt: Image alt text
+  - infobar:
+      title: Infobar
       subtitle: Add informational text
-      id: textcards
-      description: Text card description
-      cards:
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: https://isomer.zendesk.com/agent/tickets/9319
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
+      id: infobar
+      description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
+        clipboard-write; encrypted-media; gyroscope; picture-in-picture;
+        web-share" frameborder="0" title="YouTube video player"
+        src="https://www.youtube.com/embed/wSWBC4qCfjo?si=sOoZ6vQ6zy8nuv0V"
+        height="315" width="560"></iframe>
+      button: Button Text
 ---
