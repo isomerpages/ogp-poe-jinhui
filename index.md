@@ -51,13 +51,15 @@ sections:
       image: /images/Screenshot_2024_03_07_at_11_42_27_PM.png
       alt: Image alt text
   - infobar:
-      title: Infobar
-      subtitle: Add informational text
+      title: " Be a part of Nature Kakis Network today!"
       id: infobar
-      description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
+      description: >-
+        Watch and be inspired by our Nature Kakis leads.
+
+
+        <iframe allowfullscreen="" allow="accelerometer; autoplay;
         clipboard-write; encrypted-media; gyroscope; picture-in-picture;
-        web-share" frameborder="0" title="YouTube video player"
-        src="https://www.youtube.com/embed/wSWBC4qCfjo?si=sOoZ6vQ6zy8nuv0V"
-        height="315" width="560"></iframe>
-      button: Button Text
+        web-share" frameborder="0" title="Join the Nature Kakis Network Today"
+        src="https://www.youtube.com/embed/Pm1aSm5X9DQ" height="720"
+        width="1280"></iframe>
 ---
