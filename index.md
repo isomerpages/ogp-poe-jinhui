@@ -54,7 +54,7 @@ sections:
       title: Be a part of Nature Kakis Network today!
       id: infobar
       description: >-
-        <p>Watch and be inspired by our Nature Kakis leads.</p>
+        Watch and be inspired by our Nature Kakis leads.
 
 
         <iframe allowfullscreen="" allow="accelerometer; autoplay;
