@@ -51,10 +51,10 @@ sections:
       image: /images/Screenshot_2024_03_07_at_11_42_27_PM.png
       alt: Image alt text
   - infobar:
-      title: " Be a part of Nature Kakis Network today!"
+      title: Be a part of Nature Kakis Network today!
       id: infobar
       description: >-
-        Watch and be inspired by our Nature Kakis leads.
+        <p>Watch and be inspired by our Nature Kakis leads.</p>
 
 
         <iframe allowfullscreen="" allow="accelerometer; autoplay;
