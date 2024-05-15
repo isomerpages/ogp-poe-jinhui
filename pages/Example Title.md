@@ -4,94 +4,74 @@ permalink: /this-is-my-page/
 variant: tiptap
 description: ""
 ---
-<h2>Making the disbursement of government payouts efficient and secure with GovWallet</h2>
-<p></p>
-<h1>Making the disbursement of government payouts efficient and secure with GovWallet</h1>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="GovWallet logo" src="/images/Products and Services/For citizens/GovWallet_logo_resized_banner.jpg">
+<img style="box-sizing: content-box; border-style: none; max-width: 100%; background-color: var(--bgColor-default, var(--color-canvas-default));" height="323" width="940" alt="A title card labelled Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and Creations" src="https://github.com/isomerpages/nlb-exhibitions/raw/79bdabe3b91eb733f35314c697370529640039bb/images/event-images/aof/anatomy-of-a-free-mind-main-image_400w.jpg">
 </div>
-<p>Gone are the days when the government would use the snail mail method
-to deliver paper vouchers or cheques for the purpose of payout disbursement.
-Not only was the delivery process slow, but the letters would also at times
-get lost. Thanks to Singaporeans' widespread adoption of the government's
-digital apps, it has become possible for us to introduce GovWallet, a feature
-allowing payouts and vouchers to be credited directly to your account for
-a quicker and more secure delivery.</p>
-<p>This digital wallet has been integrated with apps such as Singpass, LifeSG
-and Healthy 365. It currently serves around 1.3 million citizens, who use
-the credits to make purchases and transact with 164,000 merchants on the
-PayNow platform as well as NETS’ ecosystem of 43,000 merchants.</p>
-<h3>Why use GovWallet?</h3>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Easily access your cash payouts</div>
-<div class="isomer-card-description">There's no need to download another app or even open a bank account to
-start using your payouts.</div>
+<div class="isomer-image-wrapper">
+<img style="box-sizing: content-box; border-style: none; max-width: 100%; background-color: var(--bgColor-default, var(--color-canvas-default));" height="667" width="1000" alt="A photo overview of the exhibition. There are sculptures and paintings." src="https://github.com/isomerpages/nlb-exhibitions/raw/79bdabe3b91eb733f35314c697370529640039bb/images/event-images/aof/anatomy-of-a-free-mind_gallery_3_400w.jpg">
 </div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Your credits, your choice</div>
-<div class="isomer-card-description">Make payments conveniently to approved merchants or withdraw the payouts
-in cash via an ATM.</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Check your balance</div>
-<div class="isomer-card-description">Automatically receive your credits, which are stored in one place for
-easy tracking.</div>
-</div>
-</div>
-</div>
-<h3>How to use GovWallet?</h3>
-<p>Access GovWallet by downloading and signing into one of the following
-apps: <a href="/products-and-services/for-citizens/digital-services/lifesg/" rel="noopener noreferrer nofollow" target="_blank">LifeSG</a>,
-<a href="/products-and-services/for-citizens/digital-services/singpass/" rel="noopener noreferrer nofollow" target="_blank">Singpass</a>, <a href="/products-and-services/for-citizens/health/" rel="noopener noreferrer nofollow" target="_blank">Healthy365</a>,
-<a href="/products-and-services/for-citizens/crowdsourcing/crowdtasksg/" rel="noopener noreferrer nofollow" target="_blank">CrowdTaskSG</a>or <a href="https://docs.developer.tech.gov.sg/docs?product=Workpal" rel="noopener noreferrer nofollow" target="_blank">Workpal</a>.</p>
-<h4>To check your credit balance</h4>
-<ul>
+<ul data-tight="true" class="tight">
 <li>
-<p>Scroll to the Benefits and Support module</p>
+<p>22 November 2016 – 23 April 2017 (CLOSED)</p>
 </li>
 <li>
-<p>All your unused vouchers and cash payouts will be reflected</p>
+<p>10:00am – 9:00pm</p>
+</li>
+<li>
+<p>Level 10, Gallery, National Library Building</p>
 </li>
 </ul>
-<h4>To make payments</h4>
-<ul>
+<p>1973 was a milestone year in Tan Swie Hian’s life during which he experienced
+a breakthrough in his spirituality and creative capacity. Henceforth, his
+artistic creations have been characterised by freedom – in medium, subject
+matter, genre and expression. The artist likens his newfound free mind
+to a hummingbird that can fly in all directions and experience different
+realms of reality.</p>
+<p>Now, more than 40 years later, Tan’s works are presented again at the
+National Library in this exhibition featuring over 100 creations in a wide
+range of media. This is the first time the multidisciplinary artist’s creative
+process, as documented in his notebooks through writings and sketches,
+has been featured with his artworks.</p>
+<p>Discover the extraordinary world of a free mind through Tan Swie Hian’s
+creations and notebooks!</p>
+<p>《解析自由心 – 陈瑞献稿本与创作》</p>
+<p>1973年可说是陈瑞献人生里一个重大的里程碑，他突破了自己在灵性上和艺术创作方面的极限。自此以后，他的创作无论是在媒材、主题、类型或表现手法各方面，都以自由为本。陈瑞献把他新发现的自由心比喻成一只蜂鸟，可以任意翱翔，体验不同境界的现实.
+睽违40多年，陈瑞献的作品再次于国家图书馆登场。本展览展出了100多件各种媒材的作品；这位多媒体艺术家的创作过程，也透过他稿本中的草图与手稿，首次与他的作品一并呈现在展览中。本展邀请您透过陈瑞献的艺术创作与稿本，一探这颗自由心非凡的境界!</p>
+<p>Download the brochure below:</p>
+<ul data-tight="true" class="tight">
 <li>
-<p>Log into the supporting government apps with your Singpass</p>
-</li>
-<li>
-<p>Use the Scan QR feature</p>
-</li>
-<li>
-<p>Enter the amount of money you wish to use&nbsp;</p>
-</li>
-<li>
-<p>Slide Confirm to make the transaction</p>
+<p><a href="https://github.com/isomerpages/nlb-exhibitions/blob/79bdabe3b91eb733f35314c697370529640039bb/files/aof/aofm-a5-brochure-2-17012017.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>English and Chinese exhibition brochure (1.32mb)</u></a>
+</p>
+<p></p>
 </li>
 </ul>
-<h4>To make cash withdrawals</h4>
-<ul>
-<li>
-<p>Head to an OCBC ATM</p>
-</li>
-<li>
-<p>Withdraw payout using the 8-digit Payment Reference Number that was sent
-via a letter and Singpass</p>
-</li>
-</ul>
-<h3>Interested in finding out more about GovWallet?</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.wallet.gov.sg/where-to-spend" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the GovWallet website to find out where to spend your credits</div><div class="isomer-card-link">Go to GovWallet website</div></div></a>
-<a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">TechNews readers will be the first to receive updates on GovWallet!</div>
-<div class="isomer-card-link">Subscribe to TechNews</div>
+<hr>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">About </div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
 </div>
-</a>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Gallery</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Exhibition Highlights</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="se" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Programmes</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="sd" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Exhibition Dates</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>
 <p></p>
