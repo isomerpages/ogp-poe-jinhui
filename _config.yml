@@ -1,5 +1,5 @@
 title: Site Title
-url: https://shazli-intervened-here.com
+url: https://www.test.com
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#9013fe"
@@ -54,6 +54,6 @@ prod: https://master.dhngszp60fpyw.amplifyapp.com
 facebook-pixel: ""
 shareicon: /images/JINHUI.png
 is_government: false
-google_analytics_ga4: G-XXXXX
+google_analytics_ga4: G1234
 linkedin-insights: ""
 resources_name: resource-room-title
