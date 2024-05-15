@@ -1,4 +1,5 @@
 collections:
   anatomy-of-a-free-mind:
     output: true
-    order: []
+    order:
+      - About.md
