@@ -14,9 +14,9 @@ sections:
       size: md
       alignment: left
       key_highlights:
-        - title: INSTAGRAM
-          description: Stay updated on our events
-          url: https://www.instagram.com
+        - title: e-Booking for Public Education Talk
+          description: ""
+          url: /e-services/e-booking-for-public-education-talk/
         - title: Facebook
           description: Join our community
           url: https://www.facebook.com
