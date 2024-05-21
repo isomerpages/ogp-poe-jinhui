@@ -4,7 +4,8 @@ title: Site Title
 description: An Isomer site of the Singapore Government
 image: /images/JINHUI.png
 permalink: /
-notification: ""
+notification: Advisory on Impersonation Scam Involving CPIB. <b><a
+  href="/advisory/"> Click here to read more. </a></b>
 sections:
   - hero:
       background: /images/hero-banner.png
