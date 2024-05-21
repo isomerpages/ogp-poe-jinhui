@@ -1,6 +1,6 @@
 ---
 title: Beading
-permalink: /interests-and-hobbies/permalink/beading/
+permalink: /interests-and-hobbies/permalink/beading/testing/testing/
 variant: tiptap
 description: ""
 ---

@@ -4,21 +4,26 @@ title: Site Title
 description: An Isomer site of the Singapore Government
 image: /images/JINHUI.png
 permalink: /
-notification: ""
+notification: Advisory on Impersonation Scam Involving CPIB. <b><a
+  href="/advisory/"> Click here to read more. </a></b>
 sections:
   - hero:
       background: /images/hero-banner.png
-      variant: image
+      variant: center
       backgroundColor: gray
       size: md
       alignment: left
       key_highlights:
-        - title: INSTAGRAM
-          description: Stay updated on our events
-          url: https://www.instagram.com
-        - title: Facebook
-          description: Join our community
-          url: https://www.facebook.com
+        - title: e-Booking for Public Education Talk
+          description: ""
+          url: /e-services/e-booking-for-public-education-talk/
+        - title: e-Booking for Learning Journey
+          description: ""
+          url: /e-services/e-booking-for-learning-journey/
+      title: Seen or Suspect Something?
+      subtitle: ACT ON IT.
+      url: /e-services/e-complaint-for-corrupt-conduct/
+      button: Report Corruption
   - infopic:
       title: Infopic
       subtitle: Add an image and text
@@ -51,13 +56,15 @@ sections:
       image: /images/Screenshot_2024_03_07_at_11_42_27_PM.png
       alt: Image alt text
   - infobar:
-      title: Infobar
-      subtitle: Add informational text
+      title: Be a part of Nature Kakis Network today!
       id: infobar
-      description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
+      description: >-
+        Watch and be inspired by our Nature Kakis leads.
+
+
+        <iframe allowfullscreen="" allow="accelerometer; autoplay;
         clipboard-write; encrypted-media; gyroscope; picture-in-picture;
-        web-share" frameborder="0" title="YouTube video player"
-        src="https://www.youtube.com/embed/wSWBC4qCfjo?si=sOoZ6vQ6zy8nuv0V"
-        height="315" width="560"></iframe>
-      button: Button Text
+        web-share" frameborder="0" title="Join the Nature Kakis Network Today"
+        src="https://www.youtube.com/embed/Pm1aSm5X9DQ" height="720"
+        width="1280"></iframe>
 ---
