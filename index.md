@@ -17,9 +17,9 @@ sections:
         - title: e-Booking for Public Education Talk
           description: ""
           url: /e-services/e-booking-for-public-education-talk/
-        - title: Facebook
-          description: Join our community
-          url: https://www.facebook.com
+        - title: e-Booking for Learning Journey
+          description: ""
+          url: /e-services/e-booking-for-learning-journey/
       title: Seen or Suspect Something?
       subtitle: ACT ON IT.
       url: /e-services/e-complaint-for-corrupt-conduct/
