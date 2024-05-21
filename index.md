@@ -23,6 +23,7 @@ sections:
       title: Seen or Suspect Something?
       subtitle: ACT ON IT.
       url: /e-services/e-complaint-for-corrupt-conduct/
+      button: Report Corruption
   - infopic:
       title: Infopic
       subtitle: Add an image and text
