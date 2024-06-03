@@ -30,13 +30,11 @@ sections:
       id: infopic
       description: |-
         <p>This is a paragraph with a list:</p>
-            
             <ul>
                 <li>Item 1</li>
                 <li>Item 2</li>
                 <li>Item 3</li>
             </ul>
-        <p></p>
       button: CLICK HERE
       url: /faq/#hariraya
       image: /images/Screenshot_2024_03_07_at_11_45_17_PM.png
