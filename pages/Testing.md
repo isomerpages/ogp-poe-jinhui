@@ -14,12 +14,10 @@ description: ""
 </ol>
 <p></p>
 <p></p>
+
+
 <ul data-tight="true" class="tight">
-<li>
-<p>This is a bulleted list</p>
-</li>
-<li>
-<p>test</p>
-</li>
+<li>This is a bulleted list</li>
+<li>test</li>
 </ul>
-<p></p>
+
