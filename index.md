@@ -30,6 +30,7 @@ sections:
       id: infopic
       description: |-
         <ol data-tight="true" class="tight">
+        <p>This is a title </p>
         <li>
         <p>This is a numbered list</p>
         </li>
