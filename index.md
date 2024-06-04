@@ -47,6 +47,24 @@ sections:
       subtitle: Add an image and text
       id: infopic
       description: |-
+        <ol>
+        <p>This is a title </p>
+        <li>
+        <p>This is a numbered list</p>
+        </li>
+        <li>
+        <p>test</p>
+        </li>
+        </ol>
+      button: Button Text
+      url: /accordion-anchor/#anchor1
+      image: /images/Screenshot_2024_03_07_at_11_42_27_PM.png
+      alt: Image alt text
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: |-
         <ul data-tight="true" class="tight">
         <p>This is a title </p>
         <li>
@@ -64,15 +82,6 @@ sections:
       subtitle: Subtitle
       id: resources
       button: View all
-  - infopic:
-      title: Infopic
-      subtitle: Add an image and text
-      id: infopic
-      description: Infopic description
-      button: Button Text
-      url: /accordion-anchor/#anchor1
-      image: /images/Screenshot_2024_03_07_at_11_42_27_PM.png
-      alt: Image alt text
   - infobar:
       title: Be a part of Nature Kakis Network today!
       id: infobar
