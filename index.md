@@ -62,14 +62,9 @@ sections:
       subtitle: Add an image and text
       id: infopic
       description: |-
-        <ul data-tight="true" class="tight">
-        <p>This is a title </p>
-        <li>
-        <p>This is a numbered list</p>
-        </li>
-        <li>
-        <p>test</p>
-        </li>
+        <ul>
+            <li>- Plant 1 million more trees</li>
+            <li>- Quadruple solar energy deployment by 2025.</li>
         </ul>
       button: Button Text
       image: /images/Screenshot_2024_03_07_at_9_36_33_PM.png
