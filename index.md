@@ -47,15 +47,15 @@ sections:
       subtitle: Add an image and text
       id: infopic
       description: |-
-        <ol data-tight="true" class="tight">
+        <ul data-tight="true" class="tight">
         <p>This is a title </p>
-        <ul>
+        <li>
         <p>This is a numbered list</p>
-        </ul>
-        <ul>
+        </li>
+        <li>
         <p>test</p>
+        </li>
         </ul>
-        </ol>
       button: Button Text
       image: /images/Screenshot_2024_03_07_at_9_36_33_PM.png
       alt: Image alt text
