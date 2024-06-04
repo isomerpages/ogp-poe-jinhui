@@ -29,12 +29,14 @@ sections:
       subtitle: Add an image and text
       id: infopic
       description: |-
-        <p>This is a paragraph with a list:</p>
-            <ul>
-                <li>Item 1</li>
-                <li>Item 2</li>
-                <li>Item 3</li>
-            </ul>
+        <ol data-tight="true" class="tight">
+        <li>
+        <p>This is a numbered list</p>
+        </li>
+        <li>
+        <p>test</p>
+        </li>
+        </ol>
       button: CLICK HERE
       url: /faq/#hariraya
       image: /images/Screenshot_2024_03_07_at_11_45_17_PM.png
