@@ -63,8 +63,8 @@ sections:
       id: infopic
       description: |-
         <ul>
-            <li>- Plant 1 million more trees</li>
-            <li>- Quadruple solar energy deployment by 2025.</li>
+            <li>Plant 1 million more trees</li>
+            <li>Quadruple solar energy deployment by 2025.</li>
         </ul>
       button: Button Text
       image: /images/Screenshot_2024_03_07_at_9_36_33_PM.png
