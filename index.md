@@ -28,7 +28,8 @@ sections:
       title: Infopic
       subtitle: Add an image and text
       id: infopic
-      description: |
+      description: |-
+        This is my title
         <p>• This is a title </p> 
         <p>• This is a title </p>
         <p>• This is a title </p>
