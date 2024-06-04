@@ -2,4 +2,5 @@ collections:
   about-us:
     output: true
     order:
+      - Lesson plan.md
       - Example Title.md
