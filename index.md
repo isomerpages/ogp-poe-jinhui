@@ -49,12 +49,9 @@ sections:
       description: |-
         <ol>
         <p>This is a title </p>
-        <li>
-        <p>This is a numbered list</p>
+        <li>This is a numbered list
         </li>
-        <li>
-        <p>test</p>
-        </li>
+        <li>test</li>
         </ol>
       button: Button Text
       url: /accordion-anchor/#anchor1
