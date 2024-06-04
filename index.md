@@ -29,8 +29,8 @@ sections:
       subtitle: Add an image and text
       id: infopic
       description: |-
-        <ol data-tight="true" class="tight">
         <p>This is a title </p>
+        <ol data-tight="true" class="tight">
         <li>
         <p>This is a numbered list</p>
         </li>
