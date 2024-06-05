@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - This is empty/.keep
       - Exclude this Lesson plan.md
       - Lesson plan.md
       - Example Title.md
