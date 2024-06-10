@@ -1,5 +1,5 @@
 ---
-title: Lesson plan
+title: Module plan
 permalink: /lesson-plan/
 variant: tiptap
 description: ""
