@@ -1,0 +1,8 @@
+collections:
+  testing-folder:
+    output: true
+    order:
+      - Moving Folder/Achor example.md
+      - Moving Folder/Example Title.md
+      - Moving Folder/Testing Page.md
+      - Moving Folder/.keep

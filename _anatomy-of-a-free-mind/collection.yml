@@ -1,0 +1,6 @@
+collections:
+  anatomy-of-a-free-mind:
+    output: true
+    order:
+      - Programme HIghlights.md
+      - About.md
