@@ -2,4 +2,8 @@ collections:
   about-us:
     output: true
     order:
+      - This has pages/Lesson plan.md
+      - This has pages/.keep
+      - This is empty/.keep
+      - Exclude this Lesson plan.md
       - Example Title.md

@@ -1,6 +1,6 @@
 ---
-title: Old editor
-permalink: /permalink/
+title: Contact Us
+permalink: /contact-us/
 variant: markdown
 description: ""
 ---
