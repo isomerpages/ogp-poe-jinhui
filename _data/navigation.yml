@@ -14,3 +14,10 @@ links:
     url: /faq/#hariraya
   - title: New single page
     url: /link-page/
+  - title: menu group
+    url: /exhibition/preschools//
+    sublinks:
+      - title: New submenu
+        url: /a-testing-page/
+      - title: google
+        url: https://www.google.com
