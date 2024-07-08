@@ -21,3 +21,5 @@ links:
         url: /a-testing-page/
       - title: google
         url: https://www.google.com
+  - title: New single page
+    url: https://www.google.com
