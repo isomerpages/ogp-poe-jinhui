@@ -13,7 +13,7 @@ sections:
       size: md
       alignment: left
       title: A City of <br>Green Possibilities
-      subtitle: This site is designed for residents and partners  of Kreta Ayer-Kim
+      subtitle: This site is designed for residents and partners<br> of Kreta Ayer-Kim
         Seng who
   - infobar:
       title: Infobar
@@ -25,20 +25,6 @@ sections:
         src="https://www.youtube.com/embed/XehsBbihawg?si=Fg6hVpnCHVOo6C7c"
         height="315" width="100%"></iframe>
       button: Button Text
-  - infopic:
-      title: What Is The Singapore Green Plan 2030?
-      id: infopic
-      description: <p>The Singapore Green Plan 2030, or the Green Plan, is a
-        whole-of-nation movement to advance Singapore’s national agenda on
-        sustainable development.</p><br><br><br><figure
-        class="mse-infopic-media-right is-16by9"><iframe title="What Is The
-        Singapore Green Plan 2030?" allowfullscreen="" allow="accelerometer;
-        autoplay; clipboard-write; encrypted-media; gyroscope;
-        picture-in-picture" frameborder="0"
-        src="https://www.youtube.com/embed/oTrwdqIRVKI?rel=0&autoplay=0&mute=1&enablejsapi=1"
-        height="315" width="560"></iframe></figure><p class="mse-none"></p>
-      image: https://placehold.it/628x285
-      alt: Climate Change
   - infopic:
       title: What Does The Green Plan Seek To Achieve?
       id: infopic
