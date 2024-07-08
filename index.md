@@ -13,6 +13,8 @@ sections:
       size: md
       alignment: left
       title: A City of <br>Green Possibilities
+      subtitle: This site is designed for residents and partners  of Kreta Ayer-Kim
+        Seng who
   - infopic:
       title: What Is The Singapore Green Plan 2030?
       id: infopic
@@ -30,8 +32,8 @@ sections:
   - infopic:
       title: What Does The Green Plan Seek To Achieve?
       id: infopic
-      description: "The Green Plan charts ambitious and concrete targets over the next
-        10 years, strengthening Singapore’s commitments under the UN’s 2030 "
+      description: The Green Plan charts ambitious and concrete targets over the next
+        10 years, strengthening Singapore’s commitments under the UN’s 2030
       image: /images/Index/secondimg.jpg
       alt: Why Green Plan
   - infopic:
@@ -44,24 +46,16 @@ sections:
   - infopic:
       title: What Are The Green Plan’s Key Targets?
       id: infopic
-      description: |-
-        <p>- Plant 1 million more trees</p>
-        <p>- Quadruple solar energy deployment by 2025.</p>
+      description: <p>- Plant 1 million more trees</p> <p>- Quadruple solar energy
+        deployment by 2025.</p>
       image: /images/Index/fourthimg.jpg
       alt: Impact
   - infopic:
       title: How Will We Achieve These Key Targets?
       id: infopic
-      description: >-
-        The Green Plan comprises 5 pillars that will influence all aspects of
-        our lives:
-
-
-        <p>1. City in Nature</p>
-
-        <p>2. Energy Reset</p>
-
-        <p>3. Sustainable Living</p>
+      description: "The Green Plan comprises 5 pillars that will influence all aspects
+        of our lives:  <p>1. City in Nature</p> <p>2. Energy Reset</p> <p>3.
+        Sustainable Living</p>"
       button: Button Text
       image: /images/Index/fifthimg.jpg
       alt: About Green Plan
@@ -73,14 +67,13 @@ sections:
       button: Get Involved
       url: /take-action/what-you-can-do/
       image: /images/Index/sixthimg.jpg
-      alt: "Transform Our City "
+      alt: Transform Our City
   - infopic:
       title: A Whole-of-Nation Sustainability Movement
       id: infopic
-      description: |-
-        The Green Plan is a multi-agency effort spearheaded by five ministries:
-        <p>- Ministry of Education</p>
-        <p>- Ministry of National Development</p> 
+      description: "The Green Plan is a multi-agency effort spearheaded by five
+        ministries: <p>- Ministry of Education</p> <p>- Ministry of National
+        Development</p>"
       image: /images/Index/ministries.png
       alt: Ministries
 ---
