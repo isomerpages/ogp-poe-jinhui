@@ -13,7 +13,7 @@ description: ""
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p>22 November 2016 – 23 April 2017 (CLOSED)</p>
+<p>22 November 2016 —— ——————————23 April 2017 (CLOSED)</p>
 </li>
 <li>
 <p>10:00am – 9:00pm</p>
