@@ -27,6 +27,7 @@ sections:
         src="https://www.youtube.com/embed/XehsBbihawg?si=Fg6hVpnCHVOo6C7c"
         height="315" width="100%"></iframe>
       button: Button Text
+      url: /this/
   - infopic:
       title: What Does The Green Plan Seek To Achieve?
       id: infopic
