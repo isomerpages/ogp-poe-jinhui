@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       background: /images/Index/homebanner.jpg
-      variant: center
+      variant: image
       backgroundColor: gray
       size: md
       alignment: left
