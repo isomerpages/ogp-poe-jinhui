@@ -12,11 +12,6 @@ sections:
       backgroundColor: gray
       size: md
       alignment: left
-      title: A City of <br>Green Possibilities
-      subtitle: This site is designed for residents and partners<br> of Kreta Ayer-Kim
-        Seng who
-      button: Testing
-      url: /page
   - infobar:
       title: Infobar
       subtitle: Add informational text
