@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - testing page 1.md
-      - old edit.md
+      - New editor.md
       - This has pages/Lesson plan.md
       - This has pages/.keep
       - This is empty/.keep
