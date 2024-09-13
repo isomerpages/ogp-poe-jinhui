@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - Old editor "old editor".md
+      - Old editor.md
       - New editor.md
       - This has pages/Lesson plan.md
       - This has pages/.keep
