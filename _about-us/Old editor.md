@@ -1,5 +1,5 @@
 ---
-title: Old editor "old editor"
+title: "Old editor "old editor""
 permalink: /oldeditor/
 variant: tiptap
 description: ""
