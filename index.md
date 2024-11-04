@@ -28,7 +28,7 @@ sections:
       id: infopic
       description: The Green Plan charts ambitious and concrete targets over the next
         10 years, strengthening Singapore’s commitments under the UN’s 2030
-      image: /images/Index/secondimg.jpg
+      image: /images/MP_Logo__1_.png
       alt: Why Green Plan
   - infopic:
       title: Why Is The Green Plan Important?
