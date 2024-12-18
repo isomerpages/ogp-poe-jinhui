@@ -8,11 +8,12 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="box-sizing: content-box; border-style: none; max-width: 100%; background-color: var(--bgColor-default, var(--color-canvas-default));" height="323" width="940" alt="A title card labelled Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and Creations" src="https://github.com/isomerpages/nlb-exhibitions/raw/79bdabe3b91eb733f35314c697370529640039bb/images/event-images/aof/anatomy-of-a-free-mind-main-image_400w.jpg">
 </div>
-<div class="isomer-image-wrapper">
-<img style="box-sizing: content-box; border-style: none; max-width: 100%; background-color: var(--bgColor-default, var(--color-canvas-default));" height="667" width="1000" alt="A photo overview of the exhibition. There are sculptures and paintings." src="https://github.com/isomerpages/nlb-exhibitions/raw/79bdabe3b91eb733f35314c697370529640039bb/images/event-images/aof/anatomy-of-a-free-mind_gallery_3_400w.jpg">
-</div>
 <ul data-tight="true" class="tight">
 <li>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Inquiry_Through_Dialogue___Using_Questioning_Techniques.jpg">
+</div>
 <p>22 November 2016 —— ——————————23 April 2017 (CLOSED)</p>
 </li>
 <li>
