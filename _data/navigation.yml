@@ -1,12 +1,4 @@
 logo: /images/nyp_logo.apng
 links:
-  - title: About us
-    collection: about-us
-  - title: Contact Us
-    url: /contact-us
-  - title: FAQS
-    url: /faq
   - title: testing
     url: https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx
-  - title: anchor
-    url: /faq/#hariraya
