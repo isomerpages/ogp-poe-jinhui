@@ -2,7 +2,7 @@
 layout: homepage
 title: Site Title
 description: An Isomer site of the Singapore Government
-image: /images/JINHUI.png
+image: /images/favicon-isomer.ico
 permalink: /
 notification: ""
 sections:
