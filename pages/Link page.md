@@ -1,11 +1,13 @@
 ---
 title: Link page
 permalink: /link-page/
-variant: markdown
+variant: tiptap
 description: ""
 ---
-<p><a href="/this-is-my-page/" rel="noopener noreferrer nofollow">link internally</a>
-</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/4b6ovLL3iEE?si=86Jw-znjIOZHrGp7"></iframe>
+</div>
+<div class="iframe-wrapper">
+<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/4b6ovLL3iEE?si=86Jw-znjIOZHrGp7"></iframe>
+</div>
 <p></p>
-<p><a href="https://github.com/isomerpages/cris-scri/blob/6820afe69f25a9f21c21be3d8854ecbf7a7a7151/news-and-events/news/_posts/2024-05-18-post-Bringing%20the%20latest%20health%20technologies%20into%20local%20healthcare%20settings%20to%20benefit%20more%20women.md?plain=1#L4" rel="noopener noreferrer nofollow" target="_blank">external </a>
-</p>

@@ -2,8 +2,10 @@ collections:
   about-us:
     output: true
     order:
-      - This has pages/Lesson plan.md
       - This has pages/.keep
+      - This has pages/Lesson plan.md
+      - New editor.md
+      - Old editor.md
       - This is empty/.keep
       - Exclude this Lesson plan.md
       - Example Title.md

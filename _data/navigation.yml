@@ -1,16 +1,4 @@
-logo: /images/nyp_logo.apng
+logo: /images/isomer-logo.svg
 links:
-  - title: Resources
-    resource_room: true
-  - title: Contact Us
-    url: /contact-us
-  - title: New folder
-    collection: testing-folder
-  - title: FAQS
-    url: /faq
   - title: testing
     url: https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx
-  - title: anchor
-    url: /faq/#hariraya
-  - title: New single page
-    url: /link-page/

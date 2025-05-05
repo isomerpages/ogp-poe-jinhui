@@ -1,5 +1,5 @@
 title: Site Title
-url: https://www.test.com
+url: https://test.test.open.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#9013fe"
@@ -52,7 +52,7 @@ plugins:
 staging: https://staging-lite.d2k39pso32f51y.amplifyapp.com
 prod: https://master.dhngszp60fpyw.amplifyapp.com
 facebook-pixel: ""
-shareicon: /images/JINHUI.png
+shareicon: /images/favicon-isomer.ico
 is_government: false
 google_analytics_ga4: G-B74R3P6CJB
 linkedin-insights: ""

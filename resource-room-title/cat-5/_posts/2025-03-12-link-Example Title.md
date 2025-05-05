@@ -1,9 +1,9 @@
 ---
 title: Example Title
-permalink: /example-title/
-date: 2024-05-10
-layout: post
+date: 2025-03-12
+layout: link
 description: ""
 image: ""
 variant: tiptap
+external: https://google.com
 ---
