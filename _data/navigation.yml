@@ -4,3 +4,8 @@ links:
     url: https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx
   - title: "[test] தமிழ்"
     url: /permalink
+  - title: New menu group
+    url: /
+    sublinks:
+      - title: New submenu
+        url: https://www.google.com
