@@ -123,9 +123,12 @@ of Coursework is in Term 2</p>
 <p><strong>&nbsp;<u>Secondary 1 and 2 Modular Subjects in Semester 2&nbsp;</u></strong>
 <br><strong>(i.e., Secondary 1 Food and Consumer Education, and Secondary 2 Design &amp; Technology)</strong>
 </p>
-<table style="minWidth: 100px">
+<p>Note: WA3 and WA4 are in Term 3, Submission of Coursework is in Term 4.</p>
+<hr>
+<p><strong><u>Secondary 4 Subjects</u></strong>
+</p>
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -133,31 +136,24 @@ of Coursework is in Term 2</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>WA3</strong>
+<p><strong>LAP1</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>WA4</strong>
+<p><strong>LAP2</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Coursework</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Overall</strong>
+<p><strong>Preliminary Examination</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>15%</p>
+<p>0%</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>15%</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>70%</p>
+<p>0%</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>100%</p>
@@ -165,10 +161,6 @@ of Coursework is in Term 2</p>
 </tr>
 </tbody>
 </table>
-<p>Note: WA3 and WA4 are in Term 3, Submission of Coursework is in Term 4.</p>
-<hr>
-<p><strong><u>Secondary 4 Subjects</u></strong>
-</p>
 <p>Note: Learn and Practise (LAP) 1 and 2 are timed practices to help Sec
 4 &amp; 5 students to be familiar with the demands of their upcoming examinations.
 They are non-weighted assessments that will be represented in Term 1 and
