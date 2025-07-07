@@ -5,7 +5,11 @@ variant: tiptap
 description: ""
 ---
 <p>She currently holds:</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -41,4 +45,14 @@ description: ""
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>test</p>
+</li>
+<li>
+<p>test</p>
+</li>
+</ul>
 <p></p>
