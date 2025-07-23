@@ -2,6 +2,6 @@ collections:
   school-histories:
     output: true
     order:
-      - Heritage Worth Remembering.md
+      - School histories.md
       - Schools/.keep
       - Schools/School histories.md
