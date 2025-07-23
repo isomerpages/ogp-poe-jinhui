@@ -1,4 +1,5 @@
 collections:
   school-histories:
     output: true
-    order: []
+    order:
+      - Heritage Worth Remembering.md
