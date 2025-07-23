@@ -2,4 +2,5 @@ collections:
   school-histories:
     output: true
     order:
+      - Online Repository/.keep
       - Heritage Worth Remembering.md
