@@ -2,6 +2,6 @@ collections:
   school-histories:
     output: true
     order:
-      - Online Repository/A to F.md
-      - Online Repository/.keep
       - Heritage Worth Remembering.md
+      - Online Repository/.keep
+      - Online Repository/A to F.md
