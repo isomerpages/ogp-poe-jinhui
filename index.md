@@ -12,4 +12,8 @@ sections:
       backgroundColor: gray
       size: md
       alignment: left
+  - resources:
+      title: Resources
+      subtitle: Add a preview and link to your Resource Room
+      id: resources
 ---
